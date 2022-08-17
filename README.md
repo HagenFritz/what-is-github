@@ -1,2 +1,2 @@
 # What is GitHub?
-A gentle yet comprehensive introduction to the popular version control service. 
+A gentle yet comprehensive introduction to the wildly popular collaboration platform. 
