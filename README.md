@@ -1,2 +1,2 @@
-# what-is-github
-A repository dedicated to understanding the various aspects of GitHub
+# What is GitHub?
+A gentle yet comprehensive introduction to the popular version control service. 
