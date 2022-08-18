@@ -1,3 +1,9 @@
+def print_goodbye():
+    """
+    Prints goodbye message
+    """
+    print("Goodbye World")
+
 def main():
     """
     
