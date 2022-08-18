@@ -1,5 +1,3 @@
-print("hello world")
-
 def print_goodbye():
     """
     Prints goodbye message
@@ -10,7 +8,7 @@ def main():
     """
     
     """
-    pass
+    print("hello world")
 
 if __name__ in "__main__":
     main()
