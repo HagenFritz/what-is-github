@@ -1,10 +1,8 @@
-print("hello world")
-
 def main():
     """
     
     """
-    pass
+    print("hello world")
 
 if __name__ in "__main__":
     main()
